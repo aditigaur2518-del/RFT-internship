@@ -9,3 +9,4 @@ removed_count = len(data)-len(clean_data)
 clean_data.sort()
 print("Clean data:",clean_data)
 print("Removed values:",removed_count)
+
