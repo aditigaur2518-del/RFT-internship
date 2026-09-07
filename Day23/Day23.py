@@ -255,7 +255,7 @@ if len(filtered_df) > 0:
         filtered_df
         .groupby(department_col)[performance_col]
         .mean()
-        .reset_index()
+        .reset_index()                             
     )
 
     department_average.columns = [

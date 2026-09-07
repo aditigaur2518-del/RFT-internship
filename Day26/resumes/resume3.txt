@@ -1,0 +1,7 @@
+Name: Priya Singh
+
+Skills: Python, Pandas, NumPy, Machine Learning, TensorFlow, SQL, Git
+
+Experience: 3 years
+
+Education: MCA     

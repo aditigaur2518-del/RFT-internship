@@ -38,11 +38,12 @@ df = df.dropna(subset=["Sales"])
 
 print("\nCleaned Dataset:")
 print(df.head())
-print("\nCleaned Dataset Shape:", df.shape)
+print("\nCleaned Dataset Shape:", df.shape)   
 
 
 
-total_sales = df["Sales"].sum()
+
+total_sales = df["Sales"].sum()   
 
 print("\n================================")
 print("SALES SUMMARY")

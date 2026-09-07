@@ -1,0 +1,61 @@
+Transaction_ID,Date,Account_ID,Category,Amount,Payment_Method,Location
+T001,2026-08-01,A101,Shopping,2500,Card,Delhi
+T002,2026-08-01,A102,Food,450,UPI,Noida
+T003,2026-08-01,A103,Travel,12000,Card,Gurgaon
+T004,2026-08-02,A101,Electronics,55000,Card,Delhi
+T005,2026-08-02,A104,Food,700,UPI,Panipat
+T006,2026-08-02,A105,Shopping,3200,Net Banking,Chandigarh
+T007,2026-08-03,A101,Travel,15000,Card,Delhi
+T008,2026-08-03,A102,Food,500,UPI,Noida
+T009,2026-08-03,A106,Electronics,75000,Card,Mumbai
+T010,2026-08-04,A107,Shopping,1800,UPI,Delhi
+T011,2026-08-04,A101,Shopping,2800,Card,Delhi
+T012,2026-08-04,A108,Travel,9500,Net Banking,Jaipur
+T013,2026-08-05,A109,Food,650,UPI,Delhi
+T014,2026-08-05,A110,Electronics,85000,Card,Mumbai
+T015,2026-08-05,A101,Shopping,3000,Card,Delhi
+T016,2026-08-06,A102,Travel,11000,Card,Noida
+T017,2026-08-06,A103,Electronics,60000,Card,Gurgaon
+T018,2026-08-06,A104,Food,550,UPI,Panipat
+T019,2026-08-07,A101,Travel,13000,Card,Delhi
+T020,2026-08-07,A105,Shopping,4200,UPI,Chandigarh
+T021,2026-08-07,A106,Electronics,95000,Card,Mumbai
+T022,2026-08-08,A107,Food,800,UPI,Delhi
+T023,2026-08-08,A101,Shopping,2700,Card,Delhi
+T024,2026-08-08,A108,Travel,10500,Net Banking,Jaipur
+T025,2026-08-09,A109,Food,600,UPI,Delhi
+T026,2026-08-09,A110,Electronics,125000,Card,Mumbai
+T027,2026-08-09,A101,Shopping,3500,Card,Delhi
+T028,2026-08-10,A102,Travel,14000,Card,Noida
+T029,2026-08-10,A103,Electronics,72000,Card,Gurgaon
+T030,2026-08-10,A104,Food,900,UPI,Panipat
+T031,2026-08-11,A101,Travel,16000,Card,Delhi
+T032,2026-08-11,A105,Shopping,3900,UPI,Chandigarh
+T033,2026-08-11,A106,Electronics,150000,Card,Mumbai
+T034,2026-08-12,A107,Food,750,UPI,Delhi
+T035,2026-08-12,A101,Shopping,2900,Card,Delhi
+T036,2026-08-12,A108,Travel,11500,Net Banking,Jaipur
+T037,2026-08-13,A109,Food,850,UPI,Delhi
+T038,2026-08-13,A110,Electronics,135000,Card,Mumbai
+T039,2026-08-13,A101,Shopping,3100,Card,Delhi
+T040,2026-08-14,A102,Travel,12500,Card,Noida
+T041,2026-08-14,A103,Electronics,68000,Card,Gurgaon
+T042,2026-08-14,A104,Food,950,UPI,Panipat
+T043,2026-08-15,A101,Travel,17000,Card,Delhi
+T044,2026-08-15,A105,Shopping,4500,UPI,Chandigarh
+T045,2026-08-15,A106,Electronics,175000,Card,Mumbai
+T046,2026-08-16,A107,Food,1000,UPI,Delhi
+T047,2026-08-16,A101,Shopping,3300,Card,Delhi
+T048,2026-08-16,A108,Travel,12000,Net Banking,Jaipur
+T049,2026-08-17,A109,Food,700,UPI,Delhi
+T050,2026-08-17,A110,Electronics,145000,Card,Mumbai
+T051,2026-08-17,A101,Shopping,3600,Card,Delhi
+T052,2026-08-18,A102,Travel,13500,Card,Noida
+T053,2026-08-18,A103,Electronics,78000,Card,Gurgaon
+T054,2026-08-18,A104,Food,850,UPI,Panipat
+T055,2026-08-19,A101,Travel,18000,Card,Delhi
+T056,2026-08-19,A105,Shopping,4700,UPI,Chandigarh
+T057,2026-08-19,A106,Electronics,200000,Card,Mumbai
+T058,2026-08-20,A107,Food,1100,UPI,Delhi
+T059,2026-08-20,A101,Shopping,3800,Card,Delhi
+T060,2026-08-20,A108,Travel,12500,Net Banking,Jaipur
