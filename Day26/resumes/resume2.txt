@@ -1,7 +1,0 @@
-Name: Rahul Kumar
-
-Skills: Python, Java, HTML, CSS, JavaScript, SQL, Git, GitHub
-
-Experience: 1 year
-
-Education: B.Tech in Information Technology
