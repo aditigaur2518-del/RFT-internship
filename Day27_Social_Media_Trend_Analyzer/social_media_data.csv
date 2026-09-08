@@ -1,0 +1,13 @@
+Date,Time,Username,Hashtags,Likes,Comments,Shares,Category,Text
+2026-09-01,09:30,Aditi,"#Python #Coding",120,30,20,Technology,"Learning Python today"
+2026-09-01,11:00,Rahul,"#AI #Python",200,50,40,Technology,"AI is changing the world"
+2026-09-01,14:30,Neha,"#Travel #Nature",150,35,25,Travel,"Beautiful nature trip"
+2026-09-01,18:00,Aditi,"#Python #AI",300,70,60,Technology,"Python and AI are amazing"
+2026-09-02,09:00,Rahul,"#Coding #Programming",180,40,30,Education,"Learning programming"
+2026-09-02,12:30,Neha,"#Food #Travel",220,60,45,Food,"Amazing food and travel"
+2026-09-02,16:00,Aditi,"#AI #MachineLearning",350,80,70,Technology,"Machine learning is exciting"
+2026-09-02,20:00,Rahul,"#Python #Coding",250,55,50,Education,"Python coding practice"
+2026-09-03,10:00,Neha,"#Nature #Travel",170,40,35,Travel,"Exploring beautiful places"
+2026-09-03,13:00,Aditi,"#AI #Python",400,90,80,Technology,"AI with Python"
+2026-09-03,17:30,Rahul,"#Sports #Fitness",280,65,55,Sports,"Fitness keeps us healthy"
+2026-09-03,21:00,Neha,"#Food #Cooking",190,45,40,Food,"Cooking a delicious meal"
