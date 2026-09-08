@@ -1,0 +1,6 @@
+Invoice_Number,Customer_Name,Customer_Email,Invoice_Date,Due_Date,Item,Quantity,Price,Total_Amount,Status
+INV001,Aditi Sharma,aditi@gmail.com,2026-08-01,2026-08-15,Laptop,1,55000,55000,Overdue
+INV002,Rahul Kumar,rahul@gmail.com,2026-08-05,2026-08-20,Mouse,2,800,1600,Overdue
+INV003,Neha Singh,neha@gmail.com,2026-08-10,2026-08-25,Keyboard,1,1500,1500,Overdue
+INV004,Priya Verma,priya@gmail.com,2026-08-15,2026-08-30,Monitor,1,12000,12000,Overdue
+INV005,Arjun Mehta,arjun@gmail.com,2026-08-20,2026-09-05,Printer,1,8500,8500,Overdue
