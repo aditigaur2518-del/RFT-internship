@@ -1,0 +1,15 @@
+Name: Rahul Sharma
+
+Skills:
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Git
+
+Experience:
+2 years
+
+Education:
+B.Tech Computer Science

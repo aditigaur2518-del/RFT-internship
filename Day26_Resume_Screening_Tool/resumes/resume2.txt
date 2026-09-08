@@ -1,0 +1,12 @@
+Name: Priya Singh
+
+Skills:
+Python
+SQL
+Git
+
+Experience:
+1 year
+
+Education:
+B.Tech Information Technology

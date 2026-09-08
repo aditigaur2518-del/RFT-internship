@@ -1,0 +1,16 @@
+Python Developer
+
+Skills:
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Git
+Streamlit
+
+Experience:
+1 year
+
+Education:
+B.Tech Computer Science

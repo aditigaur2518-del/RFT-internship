@@ -1,0 +1,13 @@
+Name: Amit Kumar
+
+Skills:
+HTML
+CSS
+JavaScript
+React
+
+Experience:
+2 years
+
+Education:
+BCA
